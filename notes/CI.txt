@@ -9,3 +9,5 @@ git add deploy_rsa.enc .travis.yml
 
 
 
+
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-gitlab-on-ubuntu-16-04
